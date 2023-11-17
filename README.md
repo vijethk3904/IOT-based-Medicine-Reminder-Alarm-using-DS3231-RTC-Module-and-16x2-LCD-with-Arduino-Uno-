@@ -24,6 +24,16 @@
 
 5. Automatic Time Adjustment: Utilize the RTC module's capability to automatically adjust for daylight saving time or changes in the real-time clock.
 
+**MIND MAP:**
+
+
+
+
+
+
+
+
+
 **FLOW CHART:**
 
 
