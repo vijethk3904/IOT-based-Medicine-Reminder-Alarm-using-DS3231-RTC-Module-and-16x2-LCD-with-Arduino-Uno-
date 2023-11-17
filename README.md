@@ -26,12 +26,7 @@
 
 **MIND MAP:**
 
-
-
-
-
-
-
+![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/53951ee6-35cf-4dae-b9dd-d509397914c6)
 
 
 **FLOW CHART:**
