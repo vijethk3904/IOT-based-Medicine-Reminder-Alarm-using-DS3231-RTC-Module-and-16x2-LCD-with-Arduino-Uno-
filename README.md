@@ -1,6 +1,8 @@
 # IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-
 
- Real-Time Clock Integration: Utilize the DS3231 RTC module to accurately maintain and retrieve the current time and date.
+**AIM:**
+
+1. Real-Time Clock Integration: Utilize the DS3231 RTC module to accurately maintain and retrieve the current time and date.
 
 2. User-Defined Medication Schedule: Enable users to set specific medication schedule times using pushbuttons.
 
