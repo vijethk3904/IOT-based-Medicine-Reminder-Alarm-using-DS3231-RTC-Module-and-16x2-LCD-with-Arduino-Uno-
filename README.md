@@ -24,4 +24,9 @@
 
 5. Automatic Time Adjustment: Utilize the RTC module's capability to automatically adjust for daylight saving time or changes in the real-time clock.
 
-**MIND MAPING:**
+**FLOW CHART:**
+
+
+![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/1c81343c-aa01-4947-acd0-e55ccc9db02a)
+
+
