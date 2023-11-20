@@ -48,4 +48,4 @@ The aim of this project is to design and develop a Medicine Reminder Alarm syste
 
 **CIRCUIT DIAGRAM:**
 
-![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/6de1b895-b861-4096-b8fe-33ca92798ee4)
+![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/48ad650a-7963-4d8c-b1b7-288ae858962f)
