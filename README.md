@@ -2,6 +2,10 @@
 
 **AIM:**
 
+The aim of this project is to design and develop a Medicine Reminder Alarm system using Arduino Uno, a DS3231 Real-Time Clock (RTC) module, and a 16x2 LCD display. This system intends to assist individuals in managing their medication schedule by providing timely reminders.
+
+**OBJECTIVES:**
+
 1. Real-Time Clock Integration: Utilize the DS3231 RTC module to accurately maintain and retrieve the current time and date.
 
 2. User-Defined Medication Schedule: Enable users to set specific medication schedule times using pushbuttons.
