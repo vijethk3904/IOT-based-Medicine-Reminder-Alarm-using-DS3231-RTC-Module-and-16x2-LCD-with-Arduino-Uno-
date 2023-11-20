@@ -29,7 +29,19 @@
 ![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/8c2ec343-1081-481b-97c9-cb84fa4c96d2)
 
 **FLOW CHART:**
-![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/d406281f-4969-4242-be03-b0958ddabe3b)
+
+![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/5c863725-0308-4826-b57b-d4f6b976f583)
 
 
+**BLOCK DIAGRAM:**
 
+![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/131af513-c749-4249-af8c-c3eac67ebbaf)
+
+
+**ALGORITHM:**
+
+![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/c7de2022-b085-446e-b0e9-0ce723c0d654)
+
+**CIRCUIT DIAGRAM:**
+
+![image](https://github.com/vijethk3904/IOT-based-Medicine-Reminder-Alarm-using-DS3231-RTC-Module-and-16x2-LCD-with-Arduino-Uno-/assets/149647654/6de1b895-b861-4096-b8fe-33ca92798ee4)
